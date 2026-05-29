@@ -9,16 +9,14 @@ Generar casos de prueba funcionales a partir de un requerimiento, historia de us
 Úsalo cuando tengas un requerimiento y necesites convertirlo en casos de prueba claros y ejecutables.
 
 ## Prompt
-
+```
 Actúa como un QA Engineer con experiencia en análisis de requerimientos y diseño de pruebas.
 
 Tu objetivo es analizar el siguiente requerimiento y generar casos de prueba funcionales, negativos y de borde.
 
 Requerimiento:
 
-```text
 [PEGA AQUÍ EL REQUERIMIENTO]
-```
 
 Considera lo siguiente:
 
@@ -37,3 +35,4 @@ Considera lo siguiente:
 ## Variables a reemplazar
 
 - `[PEGA AQUÍ EL REQUERIMIENTO]`: requerimiento, historia de usuario o criterio de aceptación.
+```
