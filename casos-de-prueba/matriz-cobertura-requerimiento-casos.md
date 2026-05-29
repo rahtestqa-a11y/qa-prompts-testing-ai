@@ -9,22 +9,18 @@ Generar una matriz que permita validar si los requerimientos están cubiertos po
 Úsalo cuando necesites revisar cobertura funcional antes de ejecutar pruebas o antes de enviar una conformidad QA.
 
 ## Prompt
-
+```
 Actúa como un QA Lead con experiencia en trazabilidad y cobertura de pruebas.
 
 Analiza los siguientes requerimientos y casos de prueba. Genera una matriz de cobertura e identifica gaps.
 
 Requerimientos:
 
-```text
 [PEGA AQUÍ LOS REQUERIMIENTOS]
-```
 
 Casos de prueba existentes:
 
-```text
 [PEGA AQUÍ LOS CASOS DE PRUEBA]
-```
 
 ## Formato de salida esperado
 
@@ -35,3 +31,4 @@ Casos de prueba existentes:
 
 - `[PEGA AQUÍ LOS REQUERIMIENTOS]`
 - `[PEGA AQUÍ LOS CASOS DE PRUEBA]`
+```
