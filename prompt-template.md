@@ -13,14 +13,14 @@ Usa este prompt cuando necesites:
 - [USO 3]
 
 ## Prompt
-
+```
 Actúa como un QA Engineer con experiencia en pruebas de software.
 
 Tu objetivo es analizar la siguiente información y generar una respuesta clara, ordenada y útil para QA.
 
 Información de entrada:
 
-```text
+
 [PEGA AQUÍ LA INFORMACIÓN]
 ```
 
