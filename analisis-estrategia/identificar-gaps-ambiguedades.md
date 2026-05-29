@@ -9,16 +9,13 @@ Detectar puntos no claros, incompletos o riesgosos en un requerimiento antes del
 Úsalo durante la etapa de análisis QA, refinamiento, revisión de historias de usuario o revisión de documentación funcional.
 
 ## Prompt
-
+```
 Actúa como un QA Engineer con experiencia en análisis de requerimientos.
 
 Analiza el siguiente requerimiento e identifica gaps, ambigüedades, riesgos y preguntas para el equipo funcional o negocio.
 
 Requerimiento:
-
-```text
 [PEGA AQUÍ EL REQUERIMIENTO]
-```
 
 Evalúa:
 
@@ -38,3 +35,4 @@ Evalúa:
 ## Variables a reemplazar
 
 - `[PEGA AQUÍ EL REQUERIMIENTO]`
+```
