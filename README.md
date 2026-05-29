@@ -57,3 +57,25 @@ Los resultados generados por IA deben ser revisados por un QA antes de ser usado
 ## 📌 Estado del repositorio
 
 Versión inicial piloto.
+
+---
+## 🗺️ Roadmap del piloto
+
+### Fase 1 — Biblioteca inicial
+- Crear estructura base del repositorio.
+- Documentar prompts principales para QA funcional.
+- Agregar prompts para bugs, casos de prueba y documentación.
+
+### Fase 2 — Validación con casos reales
+- Probar los prompts con requerimientos reales.
+- Medir utilidad, claridad y tiempo ahorrado.
+- Ajustar prompts según feedback del equipo QA.
+
+### Fase 3 — Estandarización
+- Definir plantilla oficial de prompts.
+- Clasificar prompts por tipo de actividad QA.
+- Agregar ejemplos de entrada y salida.
+
+### Fase 4 — Escalamiento
+- Evaluar uso por otros miembros del equipo.
+- Incorporar prompts para automatización, API, performance y AI Testing.
