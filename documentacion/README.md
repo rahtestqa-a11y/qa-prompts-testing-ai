@@ -1,6 +1,6 @@
 # Documentacion
 
-Prompts para generar planes, informes, correos y documentación QA.
+Prompts para generar planes de prueba, criterios de aceptación y reportes ejecutivos.
 
 ## Prompts incluidos
 
