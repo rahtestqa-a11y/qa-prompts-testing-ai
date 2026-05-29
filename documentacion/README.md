@@ -4,7 +4,18 @@ Prompts para generar planes de prueba, criterios de aceptación y reportes ejecu
 
 ## Prompts incluidos
 
-Revisa los archivos `.md` dentro de esta carpeta.
+Prompt 1 — Plan de pruebas completo
+Crea un plan de pruebas para este proyecto / sprint:
+[DESCRIBE EL PROYECTO, ALCANCE DEL SPRINT Y CONTEXTO]
+
+Incluye:
+- Alcance (qué se prueba y qué no)
+- Estrategia de prueba (tipos: funcional, regresión, integración, etc.)
+- Criterios de entrada (cuándo empezar a probar)
+- Criterios de salida (cuándo se considera listo para producción)
+- Riesgos identificados y mitigación
+- Recursos y responsables
+- Cronograma estimado
 
 ## Recomendación
 
