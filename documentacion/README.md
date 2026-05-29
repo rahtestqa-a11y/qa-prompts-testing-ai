@@ -2,9 +2,7 @@
 
 Prompts para generar planes de prueba, criterios de aceptación y reportes ejecutivos.
 
-## Prompts incluidos
-
-Prompt 1 — Plan de pruebas completo
+## Prompt 1 — Plan de pruebas completo
 Cuándo usarlo: Inicio de sprint, proyecto nuevo o release importante que requiere documentación formal
 
 Crea un plan de pruebas para este proyecto / sprint:
