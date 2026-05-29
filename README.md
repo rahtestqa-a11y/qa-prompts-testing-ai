@@ -54,10 +54,6 @@ Con el prompt adecuado, la IA puede ayudarte a generar:
 
 Los resultados generados por IA deben ser revisados por un QA antes de ser usados oficialmente. La IA ayuda a acelerar el trabajo, pero no reemplaza el criterio profesional del equipo de calidad.
 
-## 📌 Estado del repositorio
-
-Versión inicial piloto.
-
 ---
 ## 🗺️ Roadmap del piloto
 
@@ -79,3 +75,18 @@ Versión inicial piloto.
 ### Fase 4 — Escalamiento
 - Evaluar uso por otros miembros del equipo.
 - Incorporar prompts para automatización, API, performance y AI Testing.
+
+---
+## ✅ Beneficios esperados
+
+- Reducción de tiempo en la creación inicial de casos de prueba.
+- Mayor estandarización en la redacción de bugs y documentación QA.
+- Mejor detección temprana de gaps en requerimientos.
+- Apoyo para QAs nuevos o juniors.
+- Reutilización de conocimiento del equipo.
+- Base inicial para futuras iniciativas de QA + IA.
+
+---
+## 📌 Estado del repositorio
+
+Versión inicial piloto.
