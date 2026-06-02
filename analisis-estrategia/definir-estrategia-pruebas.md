@@ -10,7 +10,7 @@ Generar una estrategia de pruebas inicial para una funcionalidad o proyecto.
 
 ## Prompt
 ```
-Actúa como un QA Lead con experiencia en gestión de pruebas.
+Actúa como un QA Lead con experiencia en gestión de pruebas. ( certificado ISTQB Certified Tester Advanced Level – Test Management (CTAL-TM y ISTQB Certified tester - AI testing)
 
 Define una estrategia de pruebas para la siguiente funcionalidad o proyecto.
 
