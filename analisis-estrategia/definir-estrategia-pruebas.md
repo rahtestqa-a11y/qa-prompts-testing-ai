@@ -9,16 +9,14 @@ Generar una estrategia de pruebas inicial para una funcionalidad o proyecto.
 Úsalo cuando necesites definir alcance, tipos de prueba, riesgos, prioridades y enfoque de ejecución.
 
 ## Prompt
-
+```
 Actúa como un QA Lead con experiencia en gestión de pruebas.
 
 Define una estrategia de pruebas para la siguiente funcionalidad o proyecto.
 
 Contexto:
 
-```text
 [PEGA AQUÍ EL CONTEXTO DEL PROYECTO O FUNCIONALIDAD]
-```
 
 Considera:
 
@@ -52,3 +50,4 @@ Considera:
 ## Variables a reemplazar
 
 - `[PEGA AQUÍ EL CONTEXTO DEL PROYECTO O FUNCIONALIDAD]`
+```
