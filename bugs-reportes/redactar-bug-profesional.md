@@ -9,16 +9,16 @@ Redactar un bug de forma clara, profesional y entendible para desarrollo, negoci
 Úsalo cuando hayas encontrado una incidencia y necesites reportarla en Jira, Azure DevOps, Excel o por correo.
 
 ## Prompt
-
+```
 Actúa como un QA Engineer con experiencia en reporte de defectos.
 
 Redacta el siguiente bug de forma profesional, clara y estructurada.
 
 Información del defecto:
 
-```text
+
 [PEGA AQUÍ LA INFORMACIÓN DEL BUG]
-```
+
 
 Considera:
 
@@ -53,3 +53,4 @@ Considera:
 ## Variables a reemplazar
 
 - `[PEGA AQUÍ LA INFORMACIÓN DEL BUG]`
+```
