@@ -9,22 +9,21 @@ Ayudar a convertir escenarios Gherkin en una base para automatización de prueba
 Úsalo cuando tengas escenarios escritos en Gherkin y quieras generar una propuesta inicial de automatización.
 
 ## Prompt
-
+```
 Actúa como un QA Automation Engineer.
 
 Convierte los siguientes escenarios Gherkin en una propuesta de automatización.
 
 Escenarios:
 
-```gherkin
+
 [PEGA AQUÍ LOS ESCENARIOS GHERKIN]
-```
+
 
 Herramienta objetivo:
 
-```text
+
 [SELENIUM / PLAYWRIGHT / CYPRESS / ROBOT FRAMEWORK]
-```
 
 Considera:
 
@@ -50,3 +49,4 @@ Considera:
 
 - `[PEGA AQUÍ LOS ESCENARIOS GHERKIN]`
 - `[SELENIUM / PLAYWRIGHT / CYPRESS / ROBOT FRAMEWORK]`
+```
